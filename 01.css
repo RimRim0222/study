@@ -5,5 +5,12 @@ a {
 div {
     color: #0366d6;
     text-decoration: none;
+<<<<<<< HEAD
     border: 1px solid red;
+=======
+}
+p {
+    color: #0366d6;
+    text-decoration: none;
+>>>>>>> master
 }
